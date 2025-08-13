@@ -1,9 +1,5 @@
 # Hi there, I'm Kristopher Noel! 👋
 
-<div align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/profile-photo.jpg" alt="Kristopher Noel" width="200" height="200" style="border-radius: 50%;">
-</div>
-
 ## 🚀 About Me
 
 **Full-Stack Software Engineer** passionate about creating technology solutions that impact people's daily lives. From **Brooklyn, NY** with roots in **Trinidad & Tobago**, I've transformed from zero coding experience to building professional-grade applications in just 9 months at The Marcy Lab School.

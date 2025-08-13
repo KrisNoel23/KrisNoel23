@@ -4,7 +4,7 @@
 
 **Full-Stack Software Engineer** passionate about creating technology solutions that impact people's daily lives. From **Brooklyn, NY** with roots in **Trinidad & Tobago**, I've transformed from zero coding experience to building professional-grade applications in just 9 months at The Marcy Lab School.
 
-- 🎵 **My Most Recent Project:** [Moodio](https://github.com/your-username/moodio) - A music companion app connecting Spotify streaming with emotional wellness
+- 🎵 **My Most Recent Project:** [Moodio](https://github.com/KrisNoel23/Moodio) - A music companion app connecting Spotify streaming with emotional wellness
 - 🎯 **Focused On:** Full-stack development, API integrations, and user-centered design  
 - 💼 **Background:** Business Administration foundation, bringing analytical thinking to software development
 - 🌱 **Learning:** Advanced TypeScript patterns, cloud deployment, and AI integrations

@@ -31,10 +31,6 @@
 
 ## 🎵 Featured Project: Moodio
 
-<div align="center">
-  <img src="https://github.com/your-username/moodio/blob/main/demo-screenshot.png" alt="Moodio App Screenshot" width="600">
-</div>
-
 **A full-stack music companion app integrating Spotify streaming with emotional wellness tracking.**
 
 ### 🌟 Key Features
@@ -46,8 +42,6 @@
 
 ### 🛠️ Built With
 `React TypeScript` • `Node.js/Express` • `SQLite` • `Spotify APIs` • `OAuth 2.0`
-
-**[🔗 Live Demo](your-deployed-link)** | **[📖 Documentation](https://github.com/your-username/moodio)**
 
 ## 📊 GitHub Stats
 
@@ -76,17 +70,17 @@
 
 ## 🎯 What I'm Working On
 
-- 🔧 **Enhancing Moodio** with AI-powered mood insights and social features
-- 📚 **Learning:** Cloud deployment (AWS/Vercel) and advanced React patterns  
-- 🎨 **Exploring:** Design systems, accessibility, and mobile-first development
-- 🤝 **Open to:** Collaborating on music tech, wellness apps, or social impact projects
+- 🔧 **Enhancing Moodio** with more discography features
+- 📚 **Learning:**  More on building with AI
+- 🎨 **Exploring:** Design systems and mobile-first development
+- 🤝 **Open to:** Collaborating and employment
 
 ## 🌍 Let's Connect!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristhesoftwareengineer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://krisnoelportfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelkris500@gmail.com)
 
 </div>
@@ -99,6 +93,5 @@
 
 *From Brooklyn to full-stack developer - passionate about creating meaningful digital experiences* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=brightgreen)
 
 </div>

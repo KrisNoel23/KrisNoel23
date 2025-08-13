@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lyam4yMzR2d296cmhlcGtjNzgwNGcxc3U4ZjRvdW1mMzM1MzhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" />
 
 - 🌟 Full-stack developer passionate about connecting music with emotional wellness.
 - 💻 Experienced with **React**, **TypeScript**, **Node.js**, **Express**, and **Spotify APIs**.

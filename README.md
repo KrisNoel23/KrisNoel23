@@ -1,97 +1,143 @@
-# Hi there, I'm Kristopher Noel! 👋
+# Hi, I'm Kristopher Noel! 👨🏾‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=22C55E&width=900&lines=Full-stack+dev+building+music+%26+emotion+tech.)](https://git.io/typing-svg)
+
+---
 
 ## 🚀 About Me
 
-**Full-Stack Software Engineer** passionate about creating technology solutions that impact people's daily lives. From **Brooklyn, NY** with roots in **Trinidad & Tobago**, I've transformed from zero coding experience to building professional-grade applications in just 9 months at The Marcy Lab School.
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-- 🎵 **My Most Recent Project:** [Moodio](https://github.com/moodio-project/Moodio) - A music companion app connecting Spotify streaming with emotional wellness
-- 🎯 **Focused On:** Full-stack development, AI tools, and user-centered design  
-- 💼 **Background:** Business Administration foundation, combining my leadership skills in software development
-- 🌱 **Learning:** TypeScript mastery, industry technologies, and AI integrations
-- 💡 **Passionate About:** Music technology, emotional wellness apps, and accessible user experiences
+- 🌟 Full-stack developer passionate about connecting music with emotional wellness.
+- 💻 Experienced with **React**, **TypeScript**, **Node.js**, **Express**, and **Spotify APIs**.
+- 🛠 Creator of **Moodio**, a music companion app with real-time Spotify streaming.
+- ✨ Big fan of **music tech**, **Trinidad & Tobago culture**, and **Brooklyn vibes**.
+- 📂 Portfolio: **[krisnoelportfolio.netlify.app](https://krisnoelportfolio.netlify.app/)**
 
-## 🛠️ Tech Stack
+- 🔭 I'm currently working on **enhancing Moodio with AI features**
+- 🌱 I'm currently learning **advanced TypeScript patterns & cloud deployment**
+- 👯 I'm looking to collaborate on **music tech & social impact projects**
+- 💬 Ask me about **React, Spotify APIs, or full-stack development**
+- 📫 How to reach me: **noelkris500@gmail.com**
+- ⚡ Fun fact: I went from zero coding experience to building a music streaming app in 9 months!
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+## 🛠 Tech Stack
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-## 🎵 Featured Project: Moodio
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 
-**A full-stack music companion app integrating Spotify streaming with emotional wellness tracking.**
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-### 🌟 Key Features
-- 🎵 **Real-time Spotify streaming** via Web Playback SDK
-- 📊 **Mood tracking & visualization** with emotional pattern insights  
-- 🎯 **AI-powered recommendations** based on listening habits
-- ❤️ **Favorites system** with comprehensive music discovery
-- 🔐 **Secure OAuth 2.0** authentication flow
+### APIs & Integrations
+![Spotify](https://img.shields.io/badge/-Spotify%20API-1DB954?logo=spotify&logoColor=white&style=for-the-badge)
+![OAuth](https://img.shields.io/badge/-OAuth%202.0-4285F4?logo=google&logoColor=white&style=for-the-badge)
 
-### 🛠️ Built With
-`React TypeScript` • `Node.js/Express` • `SQLite` • `Spotify APIs` • `OAuth 2.0`
+---
 
-## 📊 GitHub Stats
+## 📢 What's New?
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</div>
+<details>
+<summary>🎉 Recent Achievements</summary>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165">
-</div>
+- ✅ **Completed Moodio** - Full-stack music streaming app with mood tracking
+- 🏆 **Built real-time Spotify integration** with Web Playback SDK
+- 📚 **Mastered TypeScript** for type-safe React development
+- 🚀 **Deployed first production app** with complex API integrations
+- 💡 **Led team projects** using Agile methodologies at Marcy Lab
 
-## 🚀 Other Projects
+</details>
 
-### 🏥 [PATCH - Health Tracker](https://github.com/your-username/patch)
-**Team Lead & Backend Developer** | Full-stack symptom tracking app for better patient-doctor communication
-- Led 4-person Agile development team with sprint planning and code reviews
-- Built secure Node.js/Express backend with relational database architecture
-- **Tech:** `React` • `Node.js` • `PostgreSQL` • `Knex` • `Agile Methodologies`
+📚 **Currently Learning:** AI integrations & cloud deployment  
+🎯 **Ask me about:** Music tech development and full-stack integration  
+📩 **Reach out:** noelkris500@gmail.com
 
-### 🦐 [Code Chef's Seafood](https://github.com/your-username/code-chefs-seafood)
-**Frontend Developer** | Responsive recipe discovery web application
-- Collaborative 2-person development using Git workflows
-- External API integration with dynamic content rendering
-- **Tech:** `HTML/CSS` • `JavaScript` • `REST APIs` • `Responsive Design`
+---
 
-## 🎯 What I'm Working On
-
-- 🔧 **Enhancing Moodio** with more discography features
-- 📚 **Learning:**  More on building with AI
-- 🎨 **Exploring:** Design systems and mobile-first development
-- 🤝 **Open to:** Collaborating and employment
-
-## 🌍 Let's Connect!
+## 💡 Featured Projects
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristhesoftwareengineer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://krisnoelportfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelkris500@gmail.com)
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **🎵 Moodio** | Music streaming + mood tracking companion app | React TS, Node.js, Spotify APIs, SQLite | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
+| **🏥 PATCH** | Health symptom tracking for patient-doctor communication | React, Node.js, PostgreSQL | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
+| **🦐 Code Chef's Seafood** | Responsive recipe discovery web app | HTML/CSS, JavaScript, APIs | ![Complete](https://img.shields.io/badge/Status-Complete-success) |
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+![Kristopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&include_all_commits=true&count_private=true&langs_count=8)
+
+---
+
+## 🔮 Dynamic Elements
+
 <div align="center">
-  
-**"Building technology that bridges the gap between innovation and human emotion"**
 
-*From Brooklyn to full-stack developer - passionate about creating meaningful digital experiences* 🚀
+### 💭 Daily Motivation
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=From%20zero%20coding%20experience%20to%20building%20music%20streaming%20apps%20-%20anything%20is%20possible&author=Kristopher)](https://github.com/piyushsuthar/github-readme-quotes)
 
+</div>
 
+---
+
+## 🌟 Fun Stuff
+
+<details>
+<summary>📱 Connect with me</summary>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristhesoftwareengineer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=About.me&logoColor=white)](https://krisnoelportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelkris500@gmail.com)
+
+</div>
+
+</details>
+
+<details>
+<summary>💭 Random Dev Quote</summary>
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+</details>
+
+<details>
+<summary>🎵 Music & Culture Corner</summary>
+
+**Brooklyn Roots:** Born and raised in Brooklyn, NY  
+**Cultural Heritage:** Trinidad & Tobago family background  
+**Musical Journey:** From music lover to building music streaming technology  
+**Coding Vibes:** Lo-fi beats + Caribbean rhythms + focus music  
+**Latest Achievement:** "Built a Spotify-quality music app in my first year coding!" 🎵
+
+</details>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer" />
+</div>
+
+<div align="center">
+  <i>⭐️ "Building technology that bridges innovation and human emotion" ⭐️</i>
 </div>

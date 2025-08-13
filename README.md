@@ -7,8 +7,8 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lyam4yMzR2d296cmhlcGtjNzgwNGcxc3U4ZjRvdW1mMzM1MzhlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" />
 
-- 🌟 Full-stack developer passionate about connecting music with emotional wellness.
-- 💻 Experienced with **React**, **TypeScript**, **Node.js**, **Express**, and **Spotify APIs**.
+- 🌟 Full-stack developer passionate about building solutions that impact daily lives.
+- 💻 Experienced with **React**, **JavaScript**, **Node.js**, **Express**, **CSS** and **HTML**.
 - 🛠 Creator of **Moodio**, a music companion app with real-time Spotify streaming.
 - ✨ Big fan of **music tech**, **Trinidad & Tobago culture**, and **Brooklyn vibes**.
 - 📂 Portfolio: **[krisnoelportfolio.netlify.app](https://krisnoelportfolio.netlify.app/)**

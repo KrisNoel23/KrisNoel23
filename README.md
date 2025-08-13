@@ -81,8 +81,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Kristopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&include_all_commits=true&count_private=true&langs_count=8)
+![Kristopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrisNoel23&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisNoel23&layout=compact&theme=dark&include_all_commits=true&count_private=true&langs_count=8)
 
 ---
 

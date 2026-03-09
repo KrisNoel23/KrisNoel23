@@ -83,19 +83,6 @@ Full-stack developer who came into tech with **zero coding experience** and buil
 ### Currently Learning ☁️
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrisNoel23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisNoel23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
 
 ## ⚡ Quick Facts
 

@@ -52,12 +52,20 @@ Full-stack developer who came into tech with **zero coding experience** and buil
 
 ---
 
-### 🍤 Code Chef's Seafood — *Recipe discovery web app*
-> Responsive single-page app fetching and displaying recipes via external APIs.
+### 🏫 [Prometheus × TAP](https://github.com/tap-capstone/app) — *Teacher Accelerator Program Platform*
+> Pro-bono SWE internship — built a full-stack web platform helping teachers manage applications, tasks, and program events.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![HubSpot API](https://img.shields.io/badge/-HubSpot%20API-FF7A59?logo=hubspot&logoColor=white&style=flat-square)
+
+**What I built:**
+- 📋 Dynamic dashboard components — tasks, events, and sidebar navigation
+- 🔗 Embedded external forms using secure iframes with `postMessage` handling
+- 🔐 Integrated Clerk Auth for user authentication across the platform
+- 🤝 Collaborated with engineers and PMs in a real cross-functional team environment
 
 ---
 
@@ -84,6 +92,7 @@ Full-stack developer who came into tech with **zero coding experience** and buil
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
 
+
 ## ⚡ Quick Facts
 
 ```javascript
@@ -106,5 +115,6 @@ const kris = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelkris500@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" />
+
 
 </div>

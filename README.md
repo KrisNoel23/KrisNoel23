@@ -17,7 +17,7 @@ Full-stack developer who came into tech with **zero coding experience** and buil
 - 🎧 Music inspires my work — I built **Moodio** to prove it
 - ☁️ Currently grinding toward my **AWS Cloud Practitioner** cert
 - 🤖 I use AI as a **force multiplier** — not a shortcut. The code stays clean.
-- 🎯 Actively looking for **Software Engineering roles** where I can contribute fast
+- 🎯 Actively looking for **Software Engineering roles** where I can contribute.
 
 📫 **[noelkris500@gmail.com](mailto:noelkris500@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/kristhesoftwareengineer/)** · 🌐 **[Portfolio](https://krisnoelportfolio.netlify.app/)**
 

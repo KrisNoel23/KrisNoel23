@@ -11,7 +11,7 @@
 
 ### Hey, I'm Kris 👋🏾
 
-Full-stack developer who came into tech with **zero coding experience** and built a production Spotify-integrated app in under a year.
+Full-stack developer who came into tech and built a production Spotify-integrated app in under a year.
 
 - 🏙️ Brooklyn raised. Trinidadian roots. Both show up in how I build.
 - 🎧 Music inspires my work — I built **Moodio** to prove it

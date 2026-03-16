@@ -21,12 +21,14 @@ Full-stack developer who came into tech and built a production Spotify-integrate
 
 📫 **[noelkris500@gmail.com](mailto:noelkris500@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/kristhesoftwareengineer/)** · 🌐 **[Portfolio](https://krisnoelportfolio.netlify.app/)**
 
+<br clear="right" />
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎧 Moodio — *Music meets emotional wellness*
-> Built a full-stack music companion app with real Spotify streaming, mood tracking, and personalized recommendations.
+> Full-stack music companion app with real Spotify streaming, mood tracking, and personalized recommendations.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
@@ -34,7 +36,6 @@ Full-stack developer who came into tech and built a production Spotify-integrate
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Spotify API](https://img.shields.io/badge/-Spotify%20API-1DB954?logo=spotify&logoColor=white&style=flat-square)
 
-**What I built:**
 - 🔐 Full Spotify OAuth 2.0 authentication & session management
 - 🎼 Mood-based music recommendation engine with real-time playback
 - ❤️ Favorites system with complete CRUD functionality
@@ -61,7 +62,6 @@ Full-stack developer who came into tech and built a production Spotify-integrate
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![HubSpot API](https://img.shields.io/badge/-HubSpot%20API-FF7A59?logo=hubspot&logoColor=white&style=flat-square)
 
-**What I built:**
 - 📋 Dynamic dashboard components — tasks, events, and sidebar navigation
 - 🔗 Embedded external forms using secure iframes with `postMessage` handling
 - 🔐 Integrated Clerk Auth for user authentication across the platform
@@ -71,27 +71,30 @@ Full-stack developer who came into tech and built a production Spotify-integrate
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+| Category | Technologies |
+|---|---|
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white&style=flat-square) |
+| **Auth & Tools** | ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?logo=clerk&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) |
+| **Learning ☁️** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square) |
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+---
 
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+## 📊 GitHub Stats
 
-### Currently Learning ☁️
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+<div align="center">
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KrisNoel23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisNoel23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrisNoel23&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
 
 ## ⚡ Quick Facts
 
@@ -115,6 +118,5 @@ const kris = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelkris500@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" />
-
 
 </div>
